@@ -1,56 +1,12 @@
-{'text': ' Hi everyone and welcome to the complete DSS series and today we are going to start with a new data structure which is called linked list. Now in this chapter we will use many object oriented programming concepts as well.', 'segments': [
-        {'id': 0, 'seek': 0, 'start': 0.0, 'end': 5.0, 'text': ' Hi everyone and welcome to the complete DSS series and today we are going to start with a new data structure which is called linked list.', 'tokens': [
-                50364,
-                2421,
-                1518,
-                293,
-                2928,
-                281,
-                264,
-                3566,
-                15816,
-                50,
-                2638,
-                293,
-                965,
-                321,
-                366,
-                516,
-                281,
-                722,
-                365,
-                257,
-                777,
-                1412,
-                3877,
-                597,
-                307,
-                1219,
-                9408,
-                1329,
-                13,
-                50614
-            ], 'temperature': 0.0, 'avg_logprob': -0.3607977231343587, 'compression_ratio': 1.3924050632911393, 'no_speech_prob': 0.05510089173913002
-        },
-        {'id': 1, 'seek': 0, 'start': 5.0, 'end': 10.0, 'text': ' Now in this chapter we will use many object oriented programming concepts as well.', 'tokens': [
-                50614,
-                823,
-                294,
-                341,
-                7187,
-                321,
-                486,
-                764,
-                867,
-                2657,
-                21841,
-                9410,
-                10392,
-                382,
-                731,
-                13,
-                50864
-            ], 'temperature': 0.0, 'avg_logprob': -0.3607977231343587, 'compression_ratio': 1.3924050632911393, 'no_speech_prob': 0.05510089173913002
-        }
-    ], 'language': 'hi'
-}
+[
+    {
+        "start": 0.0,
+        "end": 5.0,
+        "text": " Hi everyone and welcome to the complete DSS series and today we are going to start with a new data structure which is called linked list."
+    },
+    {
+        "start": 5.0,
+        "end": 10.0,
+        "text": " Now in this chapter we will use many object oriented programming concepts as well."
+    }
+]
