@@ -1,0 +1,10 @@
+import whisper
+
+model = whisper.load_model("base")
+result = model.transcribe("audio/10s cut.mp3",language='hi',task='translate',word_timestamps=False)
+
+
+print(result["segments"])
+chunks = []
+for segment in result["segments"]:
+    chunks.append({"start": segment['start'],"end": segment['end'], "text": segment['text']})
